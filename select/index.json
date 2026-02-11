@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "手を握っていて",
+  "base_artist": "ヒバナ",
+  "createdAt": "2026-02-11T11:47:38.786701Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "手を握っていて",
+      "artist": "ヒバナ",
+      "has_synced": false,
+      "path": "select/pl_01_手を握っていて_ヒバナ.txt"
+    }
+  ]
+}
